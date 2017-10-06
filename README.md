@@ -8,7 +8,7 @@ http://www.springer.com/gp/book/9783642290435
 
 P: papers
 
-## Schedule
+## Schedule (11:00 am -)
 
 10/16 Mon  
 B (1. Introduction)  
