@@ -2,9 +2,8 @@
 
 ## Contents
 
-B: book
-Claes Wohlin, Per Runeson, Martin Höst, Magnus C. Ohlsson, Bjöorn Regnell, and Anders Wesslén. 2000. Experimentation in Software Engineering: An Introduction. Kluwer Academic Publishers, Norwell, MA, USA.
-http://www.springer.com/gp/book/9783642290435
+B: book  
+>Claes Wohlin, Per Runeson, Martin Höst, Magnus C. Ohlsson, Bjöorn Regnell, and Anders Wesslén, [Experimentation in Software Engineering: An Introduction](http://www.springer.com/gp/book/9783642290435), Kluwer Academic Publishers, Norwell, MA, USA, 2000.
 
 P: papers
 
@@ -17,7 +16,10 @@ Toshiki Hirao
 10/18 Wed  
 P  
 Yoshiharu Ikutani  
+>Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182), ArXiv e-prints, 2017.
+
 Shohei Ikeda  
+>Jailton Coelho and Marco Tulio Valente, Why modern open source projects fail(https://doi.org/10.1145/3106237.3106246), ESEC/FSE, 2017.
 
 10/23 Mon  
 B (2-2.6. Empirical Strategies)  
