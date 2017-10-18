@@ -19,7 +19,7 @@ Yoshiharu Ikutani
 >Miltiadis Allamanis, Earl T. Barr, Premkumar Devanbu, Charles Sutton, [A Survey of Machine Learning for Big Code and Naturalness](https://arxiv.org/abs/1709.06182), ArXiv e-prints, 2017.
 
 Shohei Ikeda  
->Jailton Coelho and Marco Tulio Valente, Why modern open source projects fail(https://doi.org/10.1145/3106237.3106246), ESEC/FSE, 2017.
+>Jailton Coelho and Marco Tulio Valente, [Why modern open source projects fail](https://doi.org/10.1145/3106237.3106246), ESEC/FSE, 2017.
 
 10/23 Mon  
 B (2-2.6. Empirical Strategies)  
