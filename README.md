@@ -28,7 +28,10 @@ Shade Ruangwan
 10/25 Wed  
 P  
 Keitaro Nakasai  
+>Alessandro Murgia, Marco Ortu, Parastou Tourani, Bram Adams, Serge Demeyer, [An exploratory qualitative and quantitative analysis of emotions in issue report comments of open source systems](https://doi.org/10.1007/s10664-017-9526-0), Empirical Software Engineering, Jun. 2017.
+
 Katsuya Ogami  
+>Konrad Jamrozik, Philipp von Styp-Rekowsky, Andreas Zeller, [Mining sandboxes](https://doi.org/10.1145/2884781.2884782), ICSE, 2016.
 
 10/30 Mon  
 B (2.7-2.12. Empirical Strategies)  
