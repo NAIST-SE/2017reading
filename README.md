@@ -57,7 +57,7 @@ Saya Onoue
 
 11/15 Wed  
 P  
-Haruna Tauchi  
+Haruka Tauchi  
 Yuki Ueda  
 
 11/20 Mon  
@@ -121,7 +121,7 @@ Rodrigo Elizalde Zapata
 
 1/24 Wed  
 P  
-Haruna Tauchi  
+Haruka Tauchi  
 Yuki Ueda  
 
 1/29 Mon  
