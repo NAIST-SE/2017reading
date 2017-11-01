@@ -34,8 +34,8 @@ Katsuya Ogami
 >Konrad Jamrozik, Philipp von Styp-Rekowsky, Andreas Zeller, [Mining sandboxes](https://doi.org/10.1145/2884781.2884782), ICSE, 2016.
 
 10/30 Mon  
-B (2.7-2.12. Empirical Strategies)  
-Toshiki Hirao  
+~~B (2.7-2.12. Empirical Strategies)  
+Toshiki Hirao~~  
 
 11/1 Wed  
 P  
@@ -43,6 +43,8 @@ Bodin Chinthanet
 Akira Inokuchi  
 
 11/6 Mon  
+B (2.7-2.12. Empirical Strategies)  
+Toshiki Hirao  
 B (3. Measurement)  
 Norihito Kitagawa  
 
