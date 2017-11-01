@@ -28,7 +28,7 @@ Shade Ruangwan
 10/25 Wed  
 P  
 Keitaro Nakasai  
->Alessandro Murgia, Marco Ortu, Parastou Tourani, Bram Adams, Serge Demeyer, [An exploratory qualitative and quantitative analysis of emotions in issue report comments of open source systems](https://doi.org/10.1007/s10664-017-9526-0), Empirical Software Engineering, Jun. 2017.
+>Alessandro Murgia, Marco Ortu, Parastou Tourani, Bram Adams, Serge Demeyer, [An exploratory qualitative and quantitative analysis of emotions in issue report comments of open source systems](https://doi.org/10.1007/s10664-017-9526-0), EMSE, Jun. 2017.
 
 Katsuya Ogami  
 >Konrad Jamrozik, Philipp von Styp-Rekowsky, Andreas Zeller, [Mining sandboxes](https://doi.org/10.1145/2884781.2884782), ICSE, 2016.
@@ -40,7 +40,10 @@ Toshiki Hirao~~
 11/1 Wed  
 P  
 Bodin Chinthanet  
+>Riivo Kikas, Georgios Gousios, Marlon Dumas, Dietmar Pfahl, [Structure and evolution of package dependency networks](https://doi.org/10.1109/MSR.2017.55), MSR, 2017.
+
 Akira Inokuchi  
+>Gunnar R. Bergersen, Dag I.K. Sjøberg, Tore Dyba, [Construction and Validation of an Instrument for Measuring Programming Skill](https://doi.org/10.1109/TSE.2014.2348997), TSE, 2014.
 
 11/6 Mon  
 B (2.7-2.12. Empirical Strategies)  
