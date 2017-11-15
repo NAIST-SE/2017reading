@@ -83,14 +83,21 @@ P
 Kohei Yoshigami  
 Dong Wang  
 
+11/24 Fri
+Special lecture by Teramoto-senei  
+(i) Macro logical architecture
+
 11/27 Mon  
 Special lecture by Teramoto-senei  
+(ii) Micro logical architecture
 
 11/29 Wed  
 Special lecture by Teramoto-senei  
+(iii) Language mechanics
 
 12/4 Mon  
 Special lecture by Teramoto-senei  
+(iv) Presenting research ideas effectively: brainstorming, preparation, delivery
 
 12/6 Wed  
 P  
