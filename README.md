@@ -55,7 +55,10 @@ Norihito Kitagawa
 P  
 ~~Daiki Katsuragawa~~  
 Yuki Ueda  
+>Kristín Fjóla Tómasdóttir, Maurício Aniche, and Arie van Deursen, [Why and how JavaScript developers use linters](https://dl.acm.org/citation.cfm?id=3155634), ASE 2017.
+
 Rodrigo Elizalde Zapata  
+>Samim Mirhosseini, Chris Parnin, [Can automated pull requests encourage software developers to upgrade out-of-date dependencies?](http://dl.acm.org/citation.cfm?id=3155562.3155577), ASE 2017.
 
 11/13 Mon  
 B (4. Systematic Literature Reviews)  
@@ -64,8 +67,12 @@ Saya Onoue
 11/15 Wed  
 P  
 Haruka Tauchi  
+>Everton da Silva Maldonado, Emad Shihab, Nikolaos Tsantalis, [Using Natural Language Processing to Automatically Detect Self-Admitted Technical Debt](https://doi.org/10.1109/TSE.2017.2654244), TSE 2017.
+
 ~~Yuki Ueda~~  
+
 Daiki Katsuragawa  
+>Ahmed Zerouali, Tom Mens, [Analyzing the Evolution of Testing Library Usage in Open Source Java Projects](https://doi.org/10.1109/SANER.2017.7884645), SANER ERA 2017.
 
 11/20 Mon  
 B (5. Case Studies)  
