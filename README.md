@@ -53,8 +53,8 @@ Norihito Kitagawa
 
 11/8 Wed  
 P  
-~~Daiki Katsuragawa  ~~
-Yuki Ueda
+~~Daiki Katsuragawa~~  
+Yuki Ueda  
 Rodrigo Elizalde Zapata  
 
 11/13 Mon  
@@ -64,8 +64,8 @@ Saya Onoue
 11/15 Wed  
 P  
 Haruka Tauchi  
-~~Yuki Ueda  ~~
-Daiki Katsuragawa
+~~Yuki Ueda~~  
+Daiki Katsuragawa  
 
 11/20 Mon  
 B (5. Case Studies)  
