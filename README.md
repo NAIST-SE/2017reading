@@ -81,7 +81,7 @@ Yusuf Sulistyo Nugroho
 11/22 Wed  
 P  
 Kohei Yoshigami  
->Mohammad Gharehyazie, Baishakhi Ray, and Vladimir Filkov, [Some from here, some from there: cross-project code reuse in GitHub](Some from here, some from there: cross-project code reuse in GitHub), MSR 2017.
+>Mohammad Gharehyazie, Baishakhi Ray, and Vladimir Filkov, [Some from here, some from there: cross-project code reuse in GitHub](https://doi.org/10.1109/MSR.2017.15), MSR 2017.
 
 Dong Wang  
 >Muhammad Ahasanuzzaman, Muhammad Asaduzzaman, Chanchal K. Roy, and Kevin A. Schneider, [Mining duplicate questions in stack overflow](https://doi.org/10.1145/2901739.2901770), MSR 2016.
