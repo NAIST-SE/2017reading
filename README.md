@@ -105,7 +105,10 @@ Special lecture by Teramoto-senei
 12/6 Wed  
 P  
 Rungroj Maipradit  
+>Fouad Nasser A Al Omran and Christoph Treude, [Choosing an NLP library for analyzing software documentation: a systematic literature review and a series of experiments](https://doi.org/10.1109/MSR.2017.42), MSR 2017.
+
 Pongbhop Nukulkit  
+>Baishakhi Ray, Daryl Posnett, Vladimir Filkov, and Premkumar Devanbu, [A large scale study of programming languages and code quality in github](https://doi.org/10.1145/2635868.2635922), FSE 2014.
 
 12/11 Mon  
 B (6. Experiment Process & 7. Scoping)  
@@ -114,16 +117,24 @@ Shade Ruangwan
 12/13  
 P  
 Yoshiharu Ikutani  
+>Vitalik Buterin, [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper).
+
 Shohei Ikeda  
+>Hudson Borges, Andre Hora, Marco Tulio Valente, [Understanding the Factors That Impact the Popularity of GitHub Repositories](https://doi.org/10.1109/ICSME.2016.31), ICSME 2016.
 
 12/18 Mon  
-B (8. Planning)  
-Norihito Kitagawa  
+~~B (8. Planning)  
+Norihito Kitagawa~~  
+Special talk by Prof. Christoph Treude  
+Enabling full access to the information in software repositories
 
 12/20 Wed  
 P  
 Keitaro Nakasai  
+>Yangyang Zhao, Alexander Serebrenik, Yuming Zhou, Vladimir Filkov, Bogdan Vasilescu, [The impact of continuous integration on other software development practices: a large-scale empirical study](http://dl.acm.org/citation.cfm?id=3155562.3155575), ASE 2017.
+
 Katsuya Ogami  
+>Youn Kyu Lee, Jae young Bang, Gholamreza Safi, Arman Shahbazian, Yixue Zhao, Nenad Medvidovic, [A SEALANT for inter-app security holes in android](https://doi.org/10.1109/ICSE.2017.36), ICSE 2017.
 
 1/10 Wed  
 B (9. Operation)  
