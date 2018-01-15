@@ -142,9 +142,13 @@ Saya Onoue
 
 1/15 Mon  
 P  
-Bodin Chinthanet  
+~~Bodin Chinthanet~~
+
 Akira Inokuchi  
 >Szymon Wasik, Maciej Antczak, Jan Badura, Artur Laskowski, Tomasz Sternal, [A Survey on Online Judge Systems and Their Applications](https://arxiv.org/abs/1710.05913), ACM Computing Surveys (accepted).
+
+Pongbhop Nukulkit  
+>Pedro Domingos, [A few useful things to know about machine learning](https://doi.org/10.1145/2347736.2347755), CACM 2012.
 
 1/17 Wed  
 B (10. Analysis and Interpretation)  
@@ -168,4 +172,3 @@ Dong Wang
 1/31 Web  
 P  
 Rungroj Maipradit  
-Pongbhop Nukulkit  
