@@ -144,6 +144,7 @@ Saya Onoue
 P  
 Bodin Chinthanet  
 Akira Inokuchi  
+>Szymon Wasik, Maciej Antczak, Jan Badura, Artur Laskowski, Tomasz Sternal, [A Survey on Online Judge Systems and Their Applications](https://arxiv.org/abs/1710.05913), ACM Computing Surveys (accepted).
 
 1/17 Wed  
 B (10. Analysis and Interpretation)  
