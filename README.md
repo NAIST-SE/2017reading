@@ -157,7 +157,10 @@ Yusuf Sulistyo Nugroho
 1/22 Mon  
 P  
 Daiki Katsuragawa  
+>Xin Xia, Lingfeng Bao, David Lo, Pavneet Singh Kochhar, Ahmed E. Hassan, Zhenchang Xing, [What do developers search for on the web?](https://doi.org/10.1007/s10664-017-9514-4), EMSE 2017.
+
 Rodrigo Elizalde Zapata  
+>Boris Todorov, Raula Gaikovina Kula, Takashi Ishio, Katsuro Inoue, [SoL Mantra: Visualizing Update Opportunities Based on Library Coexistence](https://doi.org/10.1109/VISSOFT.2017.23), VISSOFT 2017.
 
 1/24 Wed  
 P  
