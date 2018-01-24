@@ -165,7 +165,10 @@ Rodrigo Elizalde Zapata
 1/24 Wed  
 P  
 Haruka Tauchi  
+>Masumi Shirakawa, Takahiro Hara, Shojiro Nishio, [N-gram IDF: A Global Term Weighting Scheme Based on Information Distance](https://doi.org/10.1145/2736277.2741628), WWW 2015.
+
 Yuki Ueda  
+>Dan Gopstein, Jake Iannacone, Yu Yan, Lois DeLong, Yanyan Zhuang, Martin K.-C. Yeh, Justin Cappos, [Understanding Misunderstandings in Source Code](https://doi.org/10.1145/3106237.3106264), ESEC/FSE 2017.
 
 1/29 Mon  
 P  
