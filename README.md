@@ -175,7 +175,7 @@ P
 ~~Kohei Yoshigami~~ 
 
 Dong Wang  
-Todd Sedano, Paul Ralph, and Cécile Péraire, [Software development waste](https://doi.org/10.1109/ICSE.2017.20), ICSE 2017.
+>Todd Sedano, Paul Ralph, and Cécile Péraire, [Software development waste](https://doi.org/10.1109/ICSE.2017.20), ICSE 2017.
 
 1/31 Web  
 P  
