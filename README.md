@@ -180,3 +180,4 @@ Todd Sedano, Paul Ralph, and Cécile Péraire, [Software development waste](http
 1/31 Web  
 P  
 Rungroj Maipradit  
+>Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Tobias Springenberg, Manuel Blum, and Frank Hutter, [Efficient and robust automated machine learning](http://dl.acm.org/citation.cfm?id=2969442.2969547), NIPS 2015.
