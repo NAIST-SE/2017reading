@@ -181,3 +181,11 @@ Dong Wang
 P  
 Rungroj Maipradit  
 >Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Tobias Springenberg, Manuel Blum, and Frank Hutter, [Efficient and robust automated machine learning](http://dl.acm.org/citation.cfm?id=2969442.2969547), NIPS 2015.
+
+2/5 Mon  
+P  
+Kohei Yoshigami  
+>Cristina V. Lopes, Petr Maj, Pedro Martins, Vaibhav Saini, Di Yang, Jakub Zitny, Hitesh Sajnani, and Jan Vitek, [DéjàVu: a map of code duplicates on GitHub](https://doi.org/10.1145/3133908), OOPSLA 2017.
+
+Bodin Chinthanet  
+>Yonghee Shin, Andrew Meneely, Laurie Williams, and Jason A. Osborne, [Evaluating Complexity, Code Churn, and Developer Activity Metrics as Indicators of Software Vulnerabilities](http://dx.doi.org/10.1109/TSE.2010.81), TSE 2011.
